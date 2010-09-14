@@ -1,0 +1,9 @@
+Package: dillhandy
+Version: 0.1
+Author: David Lawrence Miller <dave@ninepointeightone.net> 
+Maintainer: David Lawrence Miller <dave@ninepointeightone.net>  
+Title: handy utils 
+Description: handy utils 
+Depends: R (>= 2.3.0)
+LazyLoad: yes
+License: GPL (>= 2)
